@@ -1,0 +1,27 @@
+<?php
+echo "Hello World!";
+?>
+
+
+<?php
+$letters
+echo    "Hello World"
+$number $integer = 123;
+$decimal $float = 1.23;
+$table
+?>
+
+// task 3
+
+$list = [
+    "name"=> "Nimeni on Mira"
+    "age" => "ja olen 28 vuotta"
+];
+foreach ($list as $k => $value) {
+        $$k = value;
+}
+echo $name;
+echo "<br>";
+echo $age;
+echo "<br>";
+
